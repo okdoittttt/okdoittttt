@@ -5,6 +5,8 @@
 
 ![](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
+!\[https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://instagram.com/okdoitttttt)
+
 <a href="https://instagram.com/okdoitttttt" target="_blank">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
