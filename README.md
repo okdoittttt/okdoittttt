@@ -35,6 +35,5 @@
 </div>
 
 <div align=center><h1>🔒 BAEKJOON</h1></div>
-<div align=center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmoo96)](https://solved.ac/okmoo96/)
-</div>
+
+<center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmoo96)](https://solved.ac/okmoo96/)</center>
