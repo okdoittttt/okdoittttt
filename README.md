@@ -3,6 +3,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/okdoittttt?style=social)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
+<img src="https://img.shields.io/badge/instagram-007396?style=for-the-badge&logo=instagram&logoColor=white"> 
+
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
