@@ -4,11 +4,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/okdoittttt?style=social)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 ## About Me
-- 진돗개를 키우는 개발자 지망생
-- Instagram : [ME : @okdoittttt](https://instagram.com/okdoitttttt) | [Jangun : @mr.goonie_](https://www.instagram.com/mr.goonie_/)
-- Blog : [okmoo96](https://blog.naver.com/okmoo96)
-- WebSite : [http://okdoittttt.com](http://okdoittttt.com)(preparing...)
-- Email : sonokmoo@gmail.com
+- 🐕 진돗개를 키우는 개발자 지망생
+- 🦭 Instagram : [ME : @okdoittttt](https://instagram.com/okdoitttttt) | [Jangun : @mr.goonie_](https://www.instagram.com/mr.goonie_/)
+- 🦙 Blog : [okmoo96](https://blog.naver.com/okmoo96)
+- 🐳 WebSite : [http://okdoittttt.com](http://okdoittttt.com)(preparing...)
+- 🦦 Email : sonokmoo@gmail.com
 
 ## Featured Project
 - [Vision AI를 활용한 출입관리 시스템](https://github.com/okdoittttt/BinaryTeamAIProject)
