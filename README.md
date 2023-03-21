@@ -7,8 +7,13 @@
 - 진돗개를 키우는 개발자 지망생
 - Instagram : [ME : @okdoittttt](https://instagram.com/okdoitttttt) | [Jangun : @mr.goonie_](https://www.instagram.com/mr.goonie_/)
 - Blog : [okmoo96](https://blog.naver.com/okmoo96)
-- WebSite : [http://okdoittttt.com](http://okdoittttt.com)
+- WebSite : [http://okdoittttt.com](http://okdoittttt.com)(preparing...)
 - Email : sonokmoo@gmail.com
+
+## Featured Project
+- [Vision AI를 활용한 출입관리 시스템](https://github.com/okdoittttt/BinaryTeamAIProject)
+- [프리다이빙 로그 북 웹사이트](https://github.com/okdoittttt/freediving_logbook)
+- [스포츠 스코어 사이트](https://github.com/okdoittttt/JSP_TeamProject)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -40,6 +45,6 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-<center>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmoo96)](https://solved.ac/okmoo96/)
-</center>
+
