@@ -3,6 +3,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/okdoittttt?style=social)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
+## About Me
+- 진돗개를 키우는 개발자 지망생
+- Instagram : [@okdoittttt](https://instagram.com/okdoitttttt)
+- Blog : [okmoo96](https://blog.naver.com/okmoo96)
+- WebSite : [http://okdoittttt.com](http://okdoittttt.com)
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -33,7 +39,5 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-
-<div align=center><h1>🔒 BAEKJOON</h1></div><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmoo96)](https://solved.ac/okmoo96/)
