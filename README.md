@@ -3,13 +3,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/okdoittttt?style=social)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-<div align="center">
-<a href="https://instagram.com/okdoitttttt" target="_blank">
-<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-
-<img src="https://img.shields.io/badge/sonokmoo@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
-</div>
-<br><br>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
