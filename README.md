@@ -5,7 +5,7 @@
 
 ## About Me
 - 진돗개를 키우는 개발자 지망생
-- Instagram : [@okdoittttt](https://instagram.com/okdoitttttt)
+- Instagram : [ME : @okdoittttt](https://instagram.com/okdoitttttt) | [Jangun : @mr.goonie_](https://www.instagram.com/mr.goonie_/)
 - Blog : [okmoo96](https://blog.naver.com/okmoo96)
 - WebSite : [http://okdoittttt.com](http://okdoittttt.com)
 
