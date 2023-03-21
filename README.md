@@ -34,7 +34,5 @@
   <br>
 </div>
 
----
-
 <div align=center><h1>🔒 BAEKJOON</h1></div><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmoo96)](https://solved.ac/okmoo96/)
