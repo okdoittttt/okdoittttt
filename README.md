@@ -8,6 +8,7 @@
 - Instagram : [ME : @okdoittttt](https://instagram.com/okdoitttttt) | [Jangun : @mr.goonie_](https://www.instagram.com/mr.goonie_/)
 - Blog : [okmoo96](https://blog.naver.com/okmoo96)
 - WebSite : [http://okdoittttt.com](http://okdoittttt.com)
+- Email : sonokmoo@gmail.com
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -38,6 +39,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmoo96)](https://solved.ac/okmoo96/)
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmoo96)](https://solved.ac/okmoo96/)
