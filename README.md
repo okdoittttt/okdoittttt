@@ -7,8 +7,7 @@
 <a href="https://instagram.com/okdoitttttt" target="_blank">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
-<a href="https://gmail.com/sonokmoo" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
+<img src="https://img.shields.io/badge/test-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
