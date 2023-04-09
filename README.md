@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/okdoittttt?style=social)
 
 ## About Me
-- 🐕 진돗개를 키우는 개발자 지망생 | An aspiring developer who raises a Jindo dog
+- 🐕 진돗개를 키우는 개발자 지망생 | An aspiring developer who with a Jindo dog
 - 🦭 Instagram : [ME : @okdoittttt](https://instagram.com/okdoitttttt) | [Jangun : @mr.goonie_](https://www.instagram.com/mr.goonie_/)
 - 🦙 Blog : [okmoo96](https://blog.naver.com/okmoo96)
 - 🐳 WebSite : [http://okdoittttt.com](http://okdoittttt.com)(preparing...)
