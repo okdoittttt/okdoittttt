@@ -12,8 +12,8 @@
 
 ## Featured Project
 - [Vision AI를 활용한 출입관리 시스템](https://github.com/okdoittttt/BinaryTeamAIProject)
-- [프리다이빙 로그 북 웹사이트](https://github.com/okdoittttt/freediving_logbook)
-- [스포츠 스코어 사이트](https://github.com/okdoittttt/JSP_TeamProject)
+- [생태계 관찰 도감 어플리케이션]([https://github.com/okdoittttt/freediving_logbook](https://github.com/okdoittttt/flutter_collection_app))
+- [동아리 출석 인원 관리 애플리케이션(Flutter, Spring을 사용한 모바일 애플리케이션)]([https://github.com/okdoittttt/JSP_TeamProject](https://github.com/okdoittttt/2023_2_APP_MOGGOJI))
 
 <div align=center><h1>📚 STACKS</h1></div>
 
